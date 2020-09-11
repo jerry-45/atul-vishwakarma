@@ -375,6 +375,7 @@ p{
 
 #about .col-right p{
     margin-bottom: 20px;
+    padding: 0;
 }
 
 
@@ -479,6 +480,7 @@ p{
 #skills .skills-items p{
     color: white;
     text-align: center;
+    padding: 0;
 }
 
 
@@ -904,6 +906,10 @@ p{
         margin: 1.5%;
         padding-left: 0;
         padding-right: 0;
+    }
+
+    #skills .skills-bottom .skills-items p{
+        padding: 10px;
     }
 
     #skills .skills-top{
