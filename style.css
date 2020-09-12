@@ -125,6 +125,11 @@ p{
 }
 
 
+#header .nav-bar .brand h1{
+    font-size: 2rem;
+}
+
+
 #header .nav-list ul{
     list-style: none;
     position: absolute;
@@ -695,6 +700,7 @@ p{
 #footer p{
     color: white;
     font-size: 1.3rem;
+    align-items: center;
 }
 
 /* End Footer */
